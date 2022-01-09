@@ -2,6 +2,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053648104645)
 
 ![Gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavofelipe&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavofelipe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Aprendendo
 <div style="display: inline_block"><br>
