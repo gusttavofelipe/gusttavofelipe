@@ -1,4 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavofelipe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavofelipe&show_icons=true&theme=radical)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusfelip_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053648104645)
