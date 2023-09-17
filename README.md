@@ -7,12 +7,11 @@
 
 
 ### Technologies
-![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)
-![Django](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor) 
+![Django](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![FastAPI](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor) 
 ![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
-
 ![PostegreSQL](https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor)
 ![SQLAlchemy]()
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=30&color=currentColor)
