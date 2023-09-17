@@ -7,18 +7,19 @@
 
 
 ### Technologies
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)
+![Django](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![FastAPI](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)
+![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
 
-![PostegreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![PostegreSQL](https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor)
 ![SQLAlchemy]()
+![Linux](https://icongr.am/devicon/linux-original.svg?size=30&color=currentColor)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![HTML](https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor)
+![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)
+![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=30&color=#FFFFFF)
 
 ### Agile methodology
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
