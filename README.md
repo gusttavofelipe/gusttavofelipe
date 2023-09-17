@@ -7,6 +7,7 @@
 ![FastAPI](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor) 
 ![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
 ![PostegreSQL](https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor)
+
 ![SQLAlchemy]()
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=30&color=currentColor)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
