@@ -9,8 +9,8 @@
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7344a2">
     <img align="center" alt="MySQL" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor">
     <img align="center" alt="PostegreSQL" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor">
-    <img align="center" alt="SQLite" height="30" width="80" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)">
-    <img align="center" alt="SLQA" height="30" width="60" src="https://img.shields.io/badge/SQLA-100000?style=for-the-badge&logo=SQLA&logoColor=F4F4F4&labelColor=FFFFFF&color=CA3636">
+    <img align="center" alt="SQLite" height="26" width="70" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)">
+    <img align="center" alt="SLQA" height="26" width="56" src="https://img.shields.io/badge/SQLA-100000?style=for-the-badge&logo=SQLA&logoColor=F4F4F4&labelColor=FFFFFF&color=CA3636">
 
 </div>
   
