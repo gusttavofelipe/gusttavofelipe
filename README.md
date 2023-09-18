@@ -10,7 +10,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7344a2">
     <img align="center" alt="SQLite" height="30" width="80" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)">
-    <img align="center" alt="Bootstrap" height="30" width="60" src="https://img.shields.io/badge/SQLA-100000?style=for-the-badge&logo=SQLA&logoColor=F4F4F4&labelColor=FFFFFF&color=CA3636">
+    <img align="center" alt="SLQA" height="30" width="60" src="https://img.shields.io/badge/SQLA-100000?style=for-the-badge&logo=SQLA&logoColor=F4F4F4&labelColor=FFFFFF&color=CA3636">
 
 </div>
   
