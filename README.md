@@ -1,16 +1,18 @@
 <div style="display: inline_block;"><br>
     <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="FastAPI" height="21" width="69" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white">
+    <img align="center" alt="FastAPI" height="30" width="79" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
     <img align="center" alt="Django" height="50" width="60" src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor">
-    <img align="center" alt="REST" height="21" width="47" src="https://img.shields.io/badge/REST-100000?style=flat&logo=DjRest&logoColor=FFA200&labelColor=6F6F6F&color=FFFFFF">
-    <img align="center" alt="Pytest" src="https://img.shields.io/badge/Py-test-blue?labelColor=gray&style=flat">    
+    <img align="center" alt="REST" height="58" width="84" src="https://icon.icepanel.io/Technology/svg/Django-REST.svg">
+    <img align="center" alt="Pytest" height="47" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/900px-Pytest_logo.svg.png">    
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7344a2">
-    <img align="center" alt="MySQL" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor">
+    <img align="center" alt="Rabbitmq" height="27" width="25" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png">
+    <img align="center" alt="Pydantic" height="30" width="60" src="https://docs.pydantic.dev/latest/logo-white.svg">
     <img align="center" alt="PostegreSQL" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor">
-    <img align="center" alt="SQLite" height="26" width="65" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)">
-    <img align="center" alt="SLQA" height="26" width="48" src="https://img.shields.io/badge/SQLA-100000?style=for-the-badge&logo=SQLA&logoColor=F4F4F4&labelColor=FFFFFF&color=CA3636">
+    <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-20-1174940.png?f=webp&w=256">
+    <img align="center" alt="SQLite" height="33" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/573px-SQLite370.svg.png">
+    <img align="center" alt="SLQA" height="27" width="100" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png">
 </div>
   
 ##
