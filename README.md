@@ -4,6 +4,7 @@
     <img align="center" alt="Django" height="50" width="60" src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor">
     <img align="center" alt="REST" height="58" width="84" src="https://icon.icepanel.io/Technology/svg/Django-REST.svg">
     <img align="center" alt="Pytest" height="47" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/900px-Pytest_logo.svg.png">    
+    <img align="center" alt="Selenium" height="27" width="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7344a2">
