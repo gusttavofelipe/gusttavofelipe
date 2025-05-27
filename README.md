@@ -21,10 +21,14 @@
 ##
 
 <div> 
-    <a href="https://www.instagram.com/gusfelip_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/profile.php?id=100053648104645" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/gustavo-felipe-527306190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:gustavofelipe2730@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/gusfelip_/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" width="40"></a>
+    <a href="https://www.facebook.com/profile.php?id=100053648104645" height="40" width="40">
+        <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" height="40" width="40"></a> 
+    <a href="https://www.linkedin.com/in/gustavo-felipe-527306190" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" width="40"></a> 
+    <a href="mailto:gustavofelipe2730@gmail.com">
+        <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="40" width="40"></a>
 </div>
 
 
