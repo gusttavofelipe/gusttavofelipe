@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=55&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=55&section=header"/>
 <div>
     <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="FastAPI" height="35" width="92" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
