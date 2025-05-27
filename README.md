@@ -12,8 +12,8 @@
     <img align="center" alt="Pydantic" height="30" width="60" src="https://docs.pydantic.dev/latest/logo-white.svg">
     <img align="center" alt="PostegreSQL" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor">
     <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-20-1174940.png?f=webp&w=256">
-    <img align="center" alt="SQLite" height="33" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/573px-SQLite370.svg.png">
-    <img align="center" alt="SLQA" height="27" width="100" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png">
+    <img align="center" alt="SLQA" height="27" width="103" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/image.png">
+    <img align="center" alt="AWS" height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/500px-Amazon_Web_Services_Logo.svg.png">
 </div>
   
 ##
