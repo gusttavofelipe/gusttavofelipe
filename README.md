@@ -30,7 +30,7 @@
     <a href="mailto:gustavofelipe2730@gmail.com">
         <img alt="Gmail" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="40" width="40"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=40&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e453e&height=40&section=header"/>
 
 
 
