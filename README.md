@@ -18,6 +18,7 @@
     <img align="center" alt="SLQA" height="85" width="85" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png">
     <br>
     <img align="center" alt="AWS" height="40" width="40" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000">
+    <img align="center" alt="GCP" height="70" width="70" src="https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
     <img align="center" alt="Lambda" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg">
     <img align="center" alt="DynamoDb" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg">
     <img align="center" alt="S3" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg">
