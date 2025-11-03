@@ -17,8 +17,7 @@
     <img align="center" alt="PostegreSQL" height="35" width="37" src="https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor">
     <img align="center" alt="SLQA" height="85" width="85" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png">
     <br>
-    <img align="center" alt="AWS" height="40" width="40" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000">
-    <img align="center" alt="GCP" height="70" width="70" src="https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
+    <img align="center" alt="AWS" height="45" width="45" src="https://www.awsicon.com/static/images/Service-Icons/AWS-Logo/64/png5x/AWS.png">
     <img align="center" alt="Lambda" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg">
     <img align="center" alt="DynamoDb" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg">
     <img align="center" alt="S3" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg">
@@ -28,6 +27,10 @@
     <img align="center" alt="Elastic Beanstalk" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg">
     <img align="center" alt="CloudWatch.svg" height="35" width="40" src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg">
     <img align="center" alt="Serverless framework" height="100" width="150" src="https://cdn.prod.website-files.com/60acbb950c4d6606963e1fed/60acbb950c4d66854e3e2013_logo%20serverless%20dark.svg">
+    <br>
+    <img align="center" alt="GCP" height="45" width="45" src="https://holori.com/wp-content/uploads/2024/07/gcp-logo-4.png">
+    <img align="center" alt="Cloud storage" height="60" width="50" src="https://holori.com/wp-content/uploads/2022/08/cloud_storage.svg">
+    <img align="center" alt="Cloud SQL" height="60" width="50" src="https://holori.com/wp-content/uploads/2022/08/cloud_sql.svg">
 </div>
 
 ##
