@@ -38,8 +38,6 @@
 <div> 
     <a href="https://www.instagram.com/gusfelip_/" target="_blank">
         <img alt="Instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" width="40"></a>
-    <a href="https://www.facebook.com/profile.php?id=100053648104645" height="40" width="40">
-        <img alt="Facebook" src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" height="40" width="40"></a> 
     <a href="https://www.linkedin.com/in/gustavo-felipe-527306190" target="_blank">
         <img alt="Linkedin" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" width="40"></a> 
     <a href="mailto:gustavofelipe2730@gmail.com">
