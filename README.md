@@ -35,14 +35,6 @@
 
 ##
 
-<div> 
-    <a href="https://www.instagram.com/gusfelip_/" target="_blank">
-        <img alt="Instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="40" width="40"></a>
-    <a href="https://www.linkedin.com/in/gustavo-felipe-527306190" target="_blank">
-        <img alt="Linkedin" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" width="40"></a> 
-    <a href="mailto:gustavofelipe2730@gmail.com">
-        <img alt="Gmail" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="40" width="40"></a>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b3b3b&height=40&section=header"/>
 
 
